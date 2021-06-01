@@ -23,11 +23,11 @@ const IngredientScreen = (props) => {
 
 	const renderRecipes = ({ item }) => (
 		<TouchableHighlight
-			underlayColor="rgba(73,182,77,0.9)"
+			underlayColor="rgba(128, 128, 128, 0.1)"
 			onPress={() => onPressRecipe(item)}
 		>
 			<TouchableHighlight
-				underlayColor="rgba(73,182,77,0.9)"
+				underlayColor="rgba(128, 128, 128, 0.1)"
 				onPress={() => onPressRecipe(item)}
 			>
 				<View style={styles.container}>

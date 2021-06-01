@@ -5,7 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="300644af-835b-4e46-8e02-bceffd8818ce" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BackButton/BackButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BackButton/BackButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BackButton/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BackButton/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ViewIngredientsButton/ViewIngredientsButton.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ViewIngredientsButton/ViewIngredientsButton.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/ViewIngredientsButton/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ViewIngredientsButton/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Categories/CategoriesScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Categories/CategoriesScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Home/HomeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Home/HomeScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Home/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Home/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Ingredient/IngredientScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Ingredient/IngredientScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/IngredientsDetails/IngredientsDetailsScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/IngredientsDetails/IngredientsDetailsScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Recipe/RecipeScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Recipe/RecipeScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Recipe/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Recipe/styles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/RecipesList/RecipesListScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/RecipesList/RecipesListScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/screens/Search/SearchScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/screens/Search/SearchScreen.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,10 +55,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="168" y="120" width="1200" height="624" key="AVDManager" timestamp="1622461767058">
+    <state x="168" y="120" width="1200" height="624" key="AVDManager" timestamp="1622540197099">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="168" y="120" width="1200" height="624" key="AVDManager/0.0.1536.864/2400.0.1920.1080@0.0.1536.864" timestamp="1622461767058" />
+    <state x="168" y="120" width="1200" height="624" key="AVDManager/0.0.1536.864/2400.0.1920.1080@0.0.1536.864" timestamp="1622540197099" />
     <state x="580" y="178" key="AndroidProcessChooserDialog" timestamp="1622458344443">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

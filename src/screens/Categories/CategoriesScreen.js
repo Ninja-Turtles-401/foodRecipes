@@ -13,7 +13,7 @@ const CategoriesScreen = (props) => {
 
 	const renderCategory = ({ item }) => (
 		<TouchableHighlight
-			underlayColor="rgba(73,182,77,0.9)"
+			underlayColor="rgba(128, 128, 128, 0.1)"
 			onPress={() => onPressCategory(item)}
 		>
 			<View style={styles.categoriesItemContainer}>

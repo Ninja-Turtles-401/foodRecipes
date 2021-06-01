@@ -5,9 +5,13 @@ import styles from './styles';
 
 const BackButton = (props) => {
 	return (
-		<TouchableHighlight onPress={props.onPress} style={styles.btnContainer}>
+		<TouchableHighlight
+			underlayColor="rgba(128, 128, 128, 0.1)"
+			onPress={props.onPress}
+			style={styles.btnContainer}
+		>
 			<Image
-				source={require('../../../assets/icons/backArrow.png')}
+				source={require('../../../assets/icons/back.png')}
 				style={styles.btnIcon}
 			/>
 		</TouchableHighlight>
